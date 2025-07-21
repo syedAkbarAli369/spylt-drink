@@ -1,0 +1,16 @@
+
+
+IN ORDER YOU HAVE TO DO
+
+1. Navbar 
+2. Hero Section
+3. Message Section
+4. Flavor Section
+5. Flavor Title 
+6. Flavor Slider 
+7. Nutrition Section 
+8. Benefit Section
+9. Clip Path Title 
+10. Video Pin Section 
+11. Testimonial Section
+12. Footer 
